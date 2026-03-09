@@ -99,7 +99,7 @@ Contains the REST APIs, business logic, database interaction, and email services
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/MyDoctorApp.git
+https://github.com/prajapatiiranjeet/MyDoctorApp.git
 cd MyDoctorApp
 ```
 
